@@ -1,0 +1,9 @@
+{
+  "name": "aurora-enterprise",
+  "version": "1.0.0",
+  "description": "A unified intelligent business ecosystem for managing operations.",
+  "scripts": {
+    "start": "node server/index.js",
+    "build": "echo 'Building frontend assets...'"
+  }
+}
